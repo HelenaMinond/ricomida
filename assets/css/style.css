@@ -1,0 +1,50 @@
+body{
+    font-family: 'Cabin', sans-serif;
+}
+.color-fondo{
+    background-color: #292b2c;
+    color: #ffffff;
+}
+.icono{
+    font-family: 'Lobster', sans-serif;
+    font-size: 37px;
+}
+.principal , .secundario , .receta , .recetas-relacionadas{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.titulo-principal{
+    font-size: 700;
+}
+.linea{
+    border-color: #9b9b9b;
+}
+.btn{
+    border: 1;
+    border-color: #e3e4e5;
+}
+.tooltip{
+    background-color: #292b2c;
+}
+.carousel-indicators{
+    top: 190px;
+}
+.carousel-indicators li{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: #292b2c;
+}
+.newsletter{
+    padding-top: 150px;
+    padding-bottom: 200px;
+}
+.tipografia{
+    font-family: 'Lobster', sans-serif;
+}
+.desaparecer{
+    visibility: hidden;
+}
+.cambioColor{
+    color: red;
+}
